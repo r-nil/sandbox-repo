@@ -1,13 +1,17 @@
-updated 20:46:01 - 04/10/2026  
+updated 21:12:11 - 04/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
 ### 111 clans in total.  
 ## 1111  
 owned by STEAM_0:0:53862746 | [nunecan283](https://steamcommunity.com/profiles/76561198067991220)  
 color: r: 255 g: 0 b: 249   
-1 members.  
+5 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:53862746 | 76561198067991220 | nunecan283 | https://steamcommunity.com/profiles/76561198067991220 |  
+| STEAM_0:1:934867842 | 76561199830001413 | [Disconnected] | https://steamcommunity.com/profiles/76561199830001413 |  
+| STEAM_0:1:368436960 | 76561198697139649 | ThePremiumSkeleton | https://steamcommunity.com/profiles/76561198697139649 |  
+| STEAM_0:0:512059536 | 76561198984384800 | Sniky | https://steamcommunity.com/profiles/76561198984384800 |  
+| STEAM_0:1:728183517 | 76561199416632763 | Baron | https://steamcommunity.com/profiles/76561199416632763 |  
   
 ## 1234  
 owned by STEAM_0:0:782726720 | [kp3d77](https://steamcommunity.com/profiles/76561199525719168)  

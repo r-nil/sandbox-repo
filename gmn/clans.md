@@ -1,4 +1,4 @@
-updated 19:29:24 - 04/10/2026  
+updated 20:40:59 - 04/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
 ### 110 clans in total.  
 ## 1234  
@@ -736,7 +736,7 @@ color: r: 58 g: 195 b: 0
 ## LOVE  
 owned by STEAM_0:1:650928249 | [Engineer™](https://steamcommunity.com/profiles/76561199262122227)  
 color: r: 255 g: 0 b: 0   
-257 members.  
+256 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:53997861 | 76561198068261451 | Dawn | https://steamcommunity.com/profiles/76561198068261451 |  
@@ -992,7 +992,6 @@ color: r: 255 g: 0 b: 0
 | STEAM_0:0:806427796 | 76561199573121320 | Zarlynovo_0 | https://steamcommunity.com/profiles/76561199573121320 |  
 | STEAM_0:1:830423916 | 76561199621113561 | Rexy_1993 | https://steamcommunity.com/profiles/76561199621113561 |  
 | STEAM_0:0:89226413 | 76561198138718554 | Horror guardian | https://steamcommunity.com/profiles/76561198138718554 |  
-| STEAM_0:0:53862746 | 76561198067991220 | nunecan283 | https://steamcommunity.com/profiles/76561198067991220 |  
 | STEAM_0:1:335671407 | 76561198631608543 | Manfan2119 | https://steamcommunity.com/profiles/76561198631608543 |  
 | STEAM_0:1:955691438 | 76561199871648605 | ZaydenGaming44 | https://steamcommunity.com/profiles/76561199871648605 |  
 | STEAM_0:0:936224176 | 76561199832714080 | striek | https://steamcommunity.com/profiles/76561199832714080 |  
@@ -1061,10 +1060,11 @@ color: r: 186 g: 0 b: 9
 ## NIL  
 owned by STEAM_0:0:122655644 | [uᴉl](https://steamcommunity.com/profiles/76561198205577016)  
 color: r: 40 g: 40 b: 40   
-1 members.  
+2 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:122655644 | 76561198205577016 | uᴉl | https://steamcommunity.com/profiles/76561198205577016 |  
+| STEAM_0:0:53862746 | 76561198067991220 | nunecan283 | https://steamcommunity.com/profiles/76561198067991220 |  
   
 ## ONYX  
 owned by STEAM_0:0:135447004 | [G E O°未来](https://steamcommunity.com/profiles/76561198231159736)  
@@ -1615,7 +1615,7 @@ color: r: 53 g: 255 b: 0
 | STEAM_0:1:619181626 | 76561199198628981 | Happyowlplayz | https://steamcommunity.com/profiles/76561199198628981 |  
   
 ## MISC INFO  
-TOP 1: LOVE, 257 MEMBERS.  
+TOP 1: LOVE, 256 MEMBERS.  
 TOP 2: PHAC, 92 MEMBERS.  
 TOP 3: DCP, 59 MEMBERS.  
 TOP 4: HALF, 56 MEMBERS.  

@@ -1,6 +1,14 @@
-updated 20:40:59 - 04/10/2026  
+updated 20:46:01 - 04/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
-### 110 clans in total.  
+### 111 clans in total.  
+## 1111  
+owned by STEAM_0:0:53862746 | [nunecan283](https://steamcommunity.com/profiles/76561198067991220)  
+color: r: 255 g: 0 b: 249   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:0:53862746 | 76561198067991220 | nunecan283 | https://steamcommunity.com/profiles/76561198067991220 |  
+  
 ## 1234  
 owned by STEAM_0:0:782726720 | [kp3d77](https://steamcommunity.com/profiles/76561199525719168)  
 color: r: 0 g: 195 b: 255   
@@ -321,7 +329,7 @@ color: r: 255 g: 206 b: 0
 | STEAM_0:1:955219139 | 76561199870704007 | defender | https://steamcommunity.com/profiles/76561199870704007 |  
 | STEAM_0:1:950425158 | 76561199861116045 | immer1258 | https://steamcommunity.com/profiles/76561199861116045 |  
 | STEAM_0:1:764644331 | 76561199489554391 | Lukester | https://steamcommunity.com/profiles/76561199489554391 |  
-| STEAM_0:0:754102232 | 76561199468470192 | elenin1101 | https://steamcommunity.com/profiles/76561199468470192 |  
+| STEAM_0:0:754102232 | 76561199468470192 | bralax | https://steamcommunity.com/profiles/76561199468470192 |  
 | STEAM_0:1:884024669 | 76561199728315067 | charole | https://steamcommunity.com/profiles/76561199728315067 |  
 | STEAM_0:0:338076317 | 76561198636418362 | sklinov.2003 | https://steamcommunity.com/profiles/76561198636418362 |  
 | STEAM_0:1:379674804 | 76561198719615337 | victor-80 | https://steamcommunity.com/profiles/76561198719615337 |  
@@ -1060,11 +1068,10 @@ color: r: 186 g: 0 b: 9
 ## NIL  
 owned by STEAM_0:0:122655644 | [uᴉl](https://steamcommunity.com/profiles/76561198205577016)  
 color: r: 40 g: 40 b: 40   
-2 members.  
+1 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:122655644 | 76561198205577016 | uᴉl | https://steamcommunity.com/profiles/76561198205577016 |  
-| STEAM_0:0:53862746 | 76561198067991220 | nunecan283 | https://steamcommunity.com/profiles/76561198067991220 |  
   
 ## ONYX  
 owned by STEAM_0:0:135447004 | [G E O°未来](https://steamcommunity.com/profiles/76561198231159736)  

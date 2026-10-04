@@ -1,5 +1,6 @@
 updated 19:29:24 - 04/10/2026  
-# CLANS IN Garrys mod, a new beginning GMN### 110 clans in total.  
+# CLANS IN Garrys mod, a new beginning GMN  
+### 110 clans in total.  
 ## 1234  
 owned by STEAM_0:0:782726720 | [kp3d77](https://steamcommunity.com/profiles/76561199525719168)  
 color: r: 0 g: 195 b: 255   

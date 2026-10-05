@@ -10,4 +10,5 @@ btw you should definitely go see pvprepo by grayliterature, it is actually good.
 
 ## Misc?
 ### [tricks](https://github.com/r-nil/sandbox-repo/blob/main/tricks.md)
+### [random](https://github.com/r-nil/sandbox-repo/blob/main/randoms.md)
 ### [pvprepo by greyliterature](https://github.com/greyliterature/pvprepo/)

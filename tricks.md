@@ -26,7 +26,9 @@ how to bind:
 ``bind t "gm_spawnsent item_healthkit"``
 
 ## Fading Doors
-some sandbox servers might have the ``Fading Doors`` tool, if you fade a prop it no longer collides with anything, even physics gun can't grab it![CAN'T GRAB IT WITH PHYSICS GUN](/images/fading_door_cantgrab.png)  however,  you can use physics gun to unfreeze it ***(DOUBLE PRESS R)***.  
+some sandbox servers might have the ``Fading Doors`` tool, if you fade a prop it no longer collides with anything, even physics gun can't grab it  
+![CAN'T GRAB IT WITH PHYSICS GUN](/images/fading_door_cantgrab.png)  
+however, you can use physics gun to unfreeze it ***(DOUBLE PRESS R)***.  
 
 example usage:  
 put hoverballs on thrusters on an airboat, and make it fade away, unfreeze them and fly out of bounds.
@@ -35,6 +37,11 @@ put hoverballs on thrusters on an airboat, and make it fade away, unfreeze them 
 some sandbox servers might have the ``Submaterial`` tool, you can set the material path to ``vgui/inworldui``, and it still can be seen behind walls.  
 ![Funny Cube](/images/funny_cube.png)  
 if you combo it with the ``Advanced Resizer`` tool, you can create a cube that is super big and blocks everyone's view.
+
+## Solid Color Cubes
+some sandbox servers might have the ``Submaterial`` tool, you can set the material path to ``debug/debugportals``, instead of blocking the whole view, it blocks the world.  
+![Solid Color cube](/images/solid_color_cube.png)  
+again, if you combo it with the ``Advanced Resizer`` tool, you can create a cube that is super big and blocks the whole world.  
 
 ## Combine APC
 in a Garry's Mod update, combine apc has been added to the spawnmenu, it is immune to damages, however, if a Combine Ball hit it, the driver will dissolve, this can be countered by disabling collisions via the context menu or the ``No Collide`` tool.  

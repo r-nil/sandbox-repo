@@ -2,16 +2,22 @@
 some useful info in sandbox servers???  
 not sure if they're useful  
 welp  
-btw you should definitely go see pvprepo by grayliterature, it is actually good.
+btw you should definitely go see pvprepo by grayliterature, it is actually good.  
 
-NOTE: keep server icons 256x256 size
+NOTE: keep server icons 64x64 size  
 
-## Garrys mod, a new beginning GMN  
-![GMN](/images/gmn.webp)
-### [clans](https://github.com/r-nil/sandbox-repo/blob/main/gmn/clans.md)
-### [funnystuff](https://github.com/r-nil/sandbox-repo/blob/main/gmn/funnystuff.md)
+## ![GMN](/images/gmn.webp)  Garrys mod, a new beginning GMN  
+- [clans](/gmn/clans.md)
+- [funnystuff](/gmn/clans.md)
+
+## Lua Scripts ***(DOES NOT CONTAIN HACKS, EXPLOITS, BACKDOORS.)***
+- [build-utils](/lua/buildutils.lua)
+- [no-post-processes](/lua/nopostprocess.lua)
+- [spawn-utils](/lua/spawnutils.lua)
+- [hit-snd](/lua/hitsnd.lua)
+- [fgc-weapon-baseify](/lua/fgc-weapon-baseify.lua)
 
 ## Misc?
-### [tricks](https://github.com/r-nil/sandbox-repo/blob/main/tricks.md)
-### [random](https://github.com/r-nil/sandbox-repo/blob/main/randoms.md)
-### [pvprepo by greyliterature](https://github.com/greyliterature/pvprepo/)
+- [tricks](/tricks.md)
+- [random](/randoms.md)
+- [pvprepo by greyliterature](https://github.com/greyliterature/pvprepo/)

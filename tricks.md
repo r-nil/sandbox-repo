@@ -9,7 +9,7 @@ cl_weaponcolor -inf -inf -inf : quite the opposite, and the beam is invisible.
 ## Prop Spawn binds
 the command ``gm_spawn <model here>`` spawns prop.  
 for example: ``gm_spawn models/props_phx/mk-82.mdl`` spawns the mk-82 bomb.  
-you can bind it to a key: ``bind g gm_spawn models/props_phx/mk-82.mdl``  
+you can bind it to a key: ``bind g 'gm_spawn models/props_phx/mk-82.mdl'``  
 prop spawn binds from [pvprepo](https://github.com/greyliterature/pvprepo/) [here](https://github.com/greyliterature/pvprepo/blob/8364512253115f1aa77a34401c0b6b3d174307ec/GarrysMod/cfg/valve.rc#L283-L335)
 
 ## Fading Doors

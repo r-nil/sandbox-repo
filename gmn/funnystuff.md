@@ -11,9 +11,9 @@ you can use them to propkill people without getting noticed.
 
 ## Scripted Weapon
 by typing !shop in the chat, you can access the shop menu, there is Scripted Weapon OP, buy it, it only costs 1500 and it is OP.
-![scripted_weapon](/images/scripted_weapon_buy.png)
+![scripted_weapon](/images/scripted_weapon_buy.png)  
 
 ## Gates
 gates can be very large, they could be used to minge.  
 you cannot even grab the gates you spawned because you don't "own" them.
-![gates](/images/gates.png)
+![gates](/images/gates.png)  

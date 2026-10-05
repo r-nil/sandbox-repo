@@ -4,7 +4,10 @@ not sure if they're useful
 welp  
 btw you should definitely go see pvprepo by grayliterature, it is actually good.
 
+NOTE: keep server icons 256x256 size
+
 ## Garrys mod, a new beginning GMN  
+![GMN](/images/gmn.webp)
 ### [clans](https://github.com/r-nil/sandbox-repo/blob/main/gmn/clans.md)
 ### [funnystuff](https://github.com/r-nil/sandbox-repo/blob/main/gmn/funnystuff.md)
 

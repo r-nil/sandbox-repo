@@ -8,7 +8,7 @@ NOTE: keep server icons 64x64 size
 
 ## ![GMN](/images/gmn.webp)  Garrys mod, a new beginning GMN  
 - [clans](/gmn/clans.md)
-- [funnystuff](/gmn/clans.md)
+- [funnystuff](/gmn/funnystuff.md)
 
 ## Lua Scripts ***(DOES NOT CONTAIN HACKS, EXPLOITS, BACKDOORS.)***
 - [build-utils](/lua/buildutils.lua)

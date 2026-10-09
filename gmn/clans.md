@@ -1,4 +1,4 @@
-updated 18:52:36 - 09/10/2026  
+updated 19:50:47 - 09/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
 ### 115 clans in total.  
 ## 1111  
@@ -783,14 +783,6 @@ color: r: 135 g: 0 b: 255
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:766028639 | 76561199492323007 | ChrisDaily2 | https://steamcommunity.com/profiles/76561199492323007 |  
   
-## LARP  
-owned by STEAM_0:0:122655644 | [uᴉl](https://steamcommunity.com/profiles/76561198205577016)  
-color: r: 0 g: 0 b: 0   
-1 members.  
-| steamid | steamid64 | name | profile link |  
-| ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:122655644 | 76561198205577016 | uᴉl | https://steamcommunity.com/profiles/76561198205577016 |  
-  
 ## LD64  
 owned by STEAM_0:1:709964810 | [luckyduck64](https://steamcommunity.com/profiles/76561199380195349)  
 color: r: 255 g: 204 b: 0   
@@ -1497,6 +1489,14 @@ color: r: 105 g: 7 b: 7
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:910741800 | 76561199781749328 | fishstick89000 | https://steamcommunity.com/profiles/76561199781749328 |  
 | STEAM_0:1:414149722 | 76561198788565173 | LEO_64 | https://steamcommunity.com/profiles/76561198788565173 |  
+  
+## TLD  
+owned by STEAM_0:0:122655644 | [uᴉl](https://steamcommunity.com/profiles/76561198205577016)  
+color: r: 0 g: 161 b: 255   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:0:122655644 | 76561198205577016 | uᴉl | https://steamcommunity.com/profiles/76561198205577016 |  
   
 ## TOT  
 owned by STEAM_0:0:65124007 | [Lman](https://steamcommunity.com/profiles/76561198090513742)  

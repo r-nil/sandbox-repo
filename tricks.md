@@ -44,6 +44,8 @@ some sandbox servers might have the ``Fading Doors`` tool, if you fade a prop it
 ![CAN'T GRAB IT WITH PHYSICS GUN](/images/fading_door_cantgrab.png)  
 however, you can use physics gun to unfreeze it ***(DOUBLE PRESS R)***.  
 
+``fading_door_mat MATERIAL PATH HERE`` in console to set the material
+
 example usage:  
 put hoverballs on thrusters on an airboat, and make it fade away, unfreeze them and fly out of bounds.
 

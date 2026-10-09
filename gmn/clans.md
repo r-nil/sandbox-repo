@@ -1,6 +1,6 @@
-updated 12:16:30 - 09/10/2026  
+updated 18:52:36 - 09/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
-### 114 clans in total.  
+### 115 clans in total.  
 ## 1111  
 owned by STEAM_0:0:53862746 | [nunecan283](https://steamcommunity.com/profiles/76561198067991220)  
 color: r: 255 g: 0 b: 249   
@@ -319,7 +319,7 @@ color: r: 255 g: 206 b: 0
 | STEAM_0:0:654949543 | 76561199270164814 | GMAN | https://steamcommunity.com/profiles/76561199270164814 |  
 | STEAM_0:0:762813589 | 76561199485892906 | GoyimGolem | https://steamcommunity.com/profiles/76561199485892906 |  
 | STEAM_0:0:861580884 | 76561199683427496 | pykanie | https://steamcommunity.com/profiles/76561199683427496 |  
-| STEAM_0:0:951777111 | 76561199863819950 | 0N1 N4T | https://steamcommunity.com/profiles/76561199863819950 |  
+| STEAM_0:0:951777111 | 76561199863819950 | казюля | https://steamcommunity.com/profiles/76561199863819950 |  
 | STEAM_0:1:754088975 | 76561199468443679 | .UNIT-1189 N-31. | https://steamcommunity.com/profiles/76561199468443679 |  
 | STEAM_0:1:362054322 | 76561198684374373 | Cartiorr | https://steamcommunity.com/profiles/76561198684374373 |  
 | STEAM_0:0:563202088 | 76561199086669904 | Fire Fire Fire! | https://steamcommunity.com/profiles/76561199086669904 |  
@@ -374,12 +374,12 @@ color: r: 83 g: 164 b: 189
 | STEAM_0:0:649884857 | 76561199260035442 | The Assassin | https://steamcommunity.com/profiles/76561199260035442 |  
   
 ## DOMN  
-owned by STEAM_0:0:808730173 | [TeaJayz! :3](https://steamcommunity.com/profiles/76561199577726074)  
-color: r: 87 g: 0 b: 255   
+owned by STEAM_0:0:808730173 | [XX_TeaJayz! :3_XX](https://steamcommunity.com/profiles/76561199577726074)  
+color: r: 50 g: 0 b: 255   
 20 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:808730173 | 76561199577726074 | TeaJayz! :3 | https://steamcommunity.com/profiles/76561199577726074 |  
+| STEAM_0:0:808730173 | 76561199577726074 | XX_TeaJayz! :3_XX | https://steamcommunity.com/profiles/76561199577726074 |  
 | STEAM_0:1:627160977 | 76561199214587683 | Osk13 | https://steamcommunity.com/profiles/76561199214587683 |  
 | STEAM_0:1:716647448 | 76561199393560625 | Cosmico | https://steamcommunity.com/profiles/76561199393560625 |  
 | STEAM_0:0:432334499 | 76561198824934726 | GreatWolf011 | https://steamcommunity.com/profiles/76561198824934726 |  
@@ -783,6 +783,14 @@ color: r: 135 g: 0 b: 255
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:766028639 | 76561199492323007 | ChrisDaily2 | https://steamcommunity.com/profiles/76561199492323007 |  
   
+## LARP  
+owned by STEAM_0:0:122655644 | [uᴉl](https://steamcommunity.com/profiles/76561198205577016)  
+color: r: 0 g: 0 b: 0   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:0:122655644 | 76561198205577016 | uᴉl | https://steamcommunity.com/profiles/76561198205577016 |  
+  
 ## LD64  
 owned by STEAM_0:1:709964810 | [luckyduck64](https://steamcommunity.com/profiles/76561199380195349)  
 color: r: 255 g: 204 b: 0   
@@ -802,7 +810,7 @@ color: r: 58 g: 195 b: 0
 ## LOVE  
 owned by STEAM_0:1:650928249 | [Engineer™](https://steamcommunity.com/profiles/76561199262122227)  
 color: r: 255 g: 0 b: 0   
-261 members.  
+263 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:53997861 | 76561198068261451 | Dawn | https://steamcommunity.com/profiles/76561198068261451 |  
@@ -1064,8 +1072,10 @@ color: r: 255 g: 0 b: 0
 | STEAM_0:1:651361484 | 76561199262988697 | Galixar | https://steamcommunity.com/profiles/76561199262988697 |  
 | STEAM_0:1:77482581 | 76561198115230891 | cheatham1969 | https://steamcommunity.com/profiles/76561198115230891 |  
 | STEAM_0:0:378485910 | 76561198717237548 | mr folk | https://steamcommunity.com/profiles/76561198717237548 |  
-| STEAM_0:0:68715352 | 76561198097696432 | M​a​​​tt​​​​c​​h​​​u | https://steamcommunity.com/profiles/76561198097696432 |  
+| STEAM_0:0:68715352 | 76561198097696432 | M​​a​​​tt​​​​c​​h​​​u | https://steamcommunity.com/profiles/76561198097696432 |  
 | STEAM_0:1:75221138 | 76561198110708005 | Spike | https://steamcommunity.com/profiles/76561198110708005 |  
+| STEAM_0:0:367312459 | 76561198694890646 | azeandre0521 | https://steamcommunity.com/profiles/76561198694890646 |  
+| STEAM_0:0:935480761 | 76561199831227250 | daslinki | https://steamcommunity.com/profiles/76561199831227250 |  
   
 ## MAS  
 owned by STEAM_0:1:832285267 | [RandomestGamer201](https://steamcommunity.com/profiles/76561199624836263)  
@@ -1144,14 +1154,6 @@ color: r: 186 g: 0 b: 9
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:186082878 | 76561198332431485 | CRITICALTHINKR | https://steamcommunity.com/profiles/76561198332431485 |  
   
-## NIL  
-owned by STEAM_0:0:122655644 | [uᴉl](https://steamcommunity.com/profiles/76561198205577016)  
-color: r: 40 g: 40 b: 40   
-1 members.  
-| steamid | steamid64 | name | profile link |  
-| ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:122655644 | 76561198205577016 | uᴉl | https://steamcommunity.com/profiles/76561198205577016 |  
-  
 ## ONYX  
 owned by STEAM_0:0:135447004 | [G E O°未来](https://steamcommunity.com/profiles/76561198231159736)  
 color: r: 0 g: 0 b: 0   
@@ -1159,6 +1161,14 @@ color: r: 0 g: 0 b: 0
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:135447004 | 76561198231159736 | G E O°未来 | https://steamcommunity.com/profiles/76561198231159736 |  
+  
+## ORB  
+owned by STEAM_0:1:411193741 | [Cosmic Orb](https://steamcommunity.com/profiles/76561198782653211)  
+color: r: 0 g: 195 b: 255   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:1:411193741 | 76561198782653211 | Cosmic Orb | https://steamcommunity.com/profiles/76561198782653211 |  
   
 ## P4L  
 owned by STEAM_0:1:833301886 | [Juarr](https://steamcommunity.com/profiles/76561199626869501)  
@@ -1527,14 +1537,13 @@ color: r: 255 g: 206 b: 63
 ## TTT  
 owned by STEAM_0:0:946705264 | [dooby](https://steamcommunity.com/profiles/76561199853676256)  
 color: r: 62 g: 42 b: 20   
-9 members.  
+8 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:946705264 | 76561199853676256 | dooby | https://steamcommunity.com/profiles/76561199853676256 |  
 | STEAM_0:1:920425521 | 76561199801116771 | resterivev2 | https://steamcommunity.com/profiles/76561199801116771 |  
 | STEAM_0:1:555135384 | 76561199070536497 | Chia | https://steamcommunity.com/profiles/76561199070536497 |  
 | STEAM_0:0:222106524 | 76561198404478776 | Daemon Stalker | https://steamcommunity.com/profiles/76561198404478776 |  
-| STEAM_0:1:411193741 | 76561198782653211 | Cosmic Orb | https://steamcommunity.com/profiles/76561198782653211 |  
 | STEAM_0:0:739476084 | 76561199439217896 | Mooiinss | https://steamcommunity.com/profiles/76561199439217896 |  
 | STEAM_0:1:798777853 | 76561199557821435 | happy chaso | https://steamcommunity.com/profiles/76561199557821435 |  
 | STEAM_0:0:932555359 | 76561199825376446 | Abilidark | https://steamcommunity.com/profiles/76561199825376446 |  
@@ -1699,7 +1708,7 @@ color: r: 53 g: 255 b: 0
 | STEAM_0:1:619181626 | 76561199198628981 | Happyowlplayz | https://steamcommunity.com/profiles/76561199198628981 |  
   
 ## MISC INFO  
-TOP 1: LOVE, 261 MEMBERS.  
+TOP 1: LOVE, 263 MEMBERS.  
 TOP 2: PHAC, 98 MEMBERS.  
 TOP 3: HALF, 69 MEMBERS.  
 TOP 4: DCP, 57 MEMBERS.  

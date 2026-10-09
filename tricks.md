@@ -25,6 +25,20 @@ Common Health/Armor entities:
 how to bind:  
 ``bind t "gm_spawnsent item_healthkit"``
 
+## Zooming with 357
+i added this so people can ***SHUT THE FUCK UP***, DAMN  
++zoom blocks you from shooting, but toggle_zoom does not  
+commands:  
+
+HOLD VERSION:  
+``alias -hold_zoom toggle_zoom``  
+``alias +hold_zoom toggle_zoom``  
+``bind b +hold_zoom``  
+
+TOGGLE VERSION:  
+``bind b toggle_zoom``
+
+
 ## Fading Doors
 some sandbox servers might have the ``Fading Doors`` tool, if you fade a prop it no longer collides with anything, even physics gun can't grab it  
 ![CAN'T GRAB IT WITH PHYSICS GUN](/images/fading_door_cantgrab.png)  

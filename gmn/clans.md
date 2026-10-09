@@ -1,6 +1,6 @@
-updated 12:08:14 - 09/10/2026  
+updated 12:16:30 - 09/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
-### 113 clans in total.  
+### 114 clans in total.  
 ## 1111  
 owned by STEAM_0:0:53862746 | [nunecan283](https://steamcommunity.com/profiles/76561198067991220)  
 color: r: 255 g: 0 b: 249   
@@ -210,6 +210,14 @@ color: r: 255 g: 0 b: 0
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:526069457 | 76561199012404642 | ☭ Meow Zedong ☭ | https://steamcommunity.com/profiles/76561199012404642 |  
 | STEAM_0:0:591359655 | 76561199142985038 | Silverfox | https://steamcommunity.com/profiles/76561199142985038 |  
+  
+## CLAN  
+owned by STEAM_0:1:396800167 | [xX_Yier_Xx](https://steamcommunity.com/profiles/76561198753866063)  
+color: r: 255 g: 251 b: 105   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:1:396800167 | 76561198753866063 | xX_Yier_Xx | https://steamcommunity.com/profiles/76561198753866063 |  
   
 ## CMBN  
 owned by STEAM_0:1:362363475 | [subaru](https://steamcommunity.com/profiles/76561198684992679)  

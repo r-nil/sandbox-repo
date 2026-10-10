@@ -1,10 +1,10 @@
-updated 19:50:47 - 09/10/2026  
+updated 08:43:30 - 10/10/2026  
 # CLANS IN Garrys mod, a new beginning GMN  
-### 115 clans in total.  
+### 118 clans in total.  
 ## 1111  
 owned by STEAM_0:0:53862746 | [nunecan283](https://steamcommunity.com/profiles/76561198067991220)  
 color: r: 255 g: 0 b: 249   
-22 members.  
+26 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:53862746 | 76561198067991220 | nunecan283 | https://steamcommunity.com/profiles/76561198067991220 |  
@@ -29,6 +29,10 @@ color: r: 255 g: 0 b: 249
 | STEAM_0:1:360422740 | 76561198681111209 | monkeyinslaver101 | https://steamcommunity.com/profiles/76561198681111209 |  
 | STEAM_0:0:925653565 | 76561199811572858 | pikmin_fan_2.0 | https://steamcommunity.com/profiles/76561199811572858 |  
 | STEAM_0:1:952997712 | 76561199866261153 | descopper | https://steamcommunity.com/profiles/76561199866261153 |  
+| STEAM_0:1:624458836 | 76561199209183401 | casino.player.1990 | https://steamcommunity.com/profiles/76561199209183401 |  
+| STEAM_0:0:384978925 | 76561198730223578 | NoMoneyOrangutan | https://steamcommunity.com/profiles/76561198730223578 |  
+| STEAM_0:1:395049390 | 76561198750364509 | nek1tesri | https://steamcommunity.com/profiles/76561198750364509 |  
+| STEAM_0:1:816316526 | 76561199592898781 | AwesomeAustin | https://steamcommunity.com/profiles/76561199592898781 |  
   
 ## 1234  
 owned by STEAM_0:0:782726720 | [kp3d77](https://steamcommunity.com/profiles/76561199525719168)  
@@ -347,7 +351,7 @@ color: r: 255 g: 206 b: 0
 | STEAM_0:0:339921388 | 76561198640108504 | Pearpurple | https://steamcommunity.com/profiles/76561198640108504 |  
 | STEAM_0:0:369169036 | 76561198698603800 | doodulance | https://steamcommunity.com/profiles/76561198698603800 |  
 | STEAM_0:0:615693670 | 76561199191653068 | Wima | https://steamcommunity.com/profiles/76561199191653068 |  
-| STEAM_0:0:403789676 | 76561198767845080 | StarSwagghinum | https://steamcommunity.com/profiles/76561198767845080 |  
+| STEAM_0:0:403789676 | 76561198767845080 | JLore | https://steamcommunity.com/profiles/76561198767845080 |  
 | STEAM_0:1:774571444 | 76561199509408617 | DingleBals | https://steamcommunity.com/profiles/76561199509408617 |  
 | STEAM_0:0:784932463 | 76561199530130654 | mihail2909 | https://steamcommunity.com/profiles/76561199530130654 |  
 | STEAM_0:0:868442264 | 76561199697150256 | average 2fort player | https://steamcommunity.com/profiles/76561199697150256 |  
@@ -478,21 +482,22 @@ color: r: 255 g: 16 b: 211
 | STEAM_0:1:460503726 | 76561198881273181 | timmytuffknuckles | https://steamcommunity.com/profiles/76561198881273181 |  
   
 ## GBFD  
-owned by STEAM_0:1:20441289 | [""g00db0tk1ngz""](https://steamcommunity.com/profiles/76561198001148307)  
+owned by STEAM_0:1:20441289 | [wheniseepetericrashtheserver](https://steamcommunity.com/profiles/76561198001148307)  
 color: r: 0 g: 216 b: 255   
 1 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
-| STEAM_0:1:20441289 | 76561198001148307 | ""g00db0tk1ngz"" | https://steamcommunity.com/profiles/76561198001148307 |  
+| STEAM_0:1:20441289 | 76561198001148307 | wheniseepetericrashtheserver | https://steamcommunity.com/profiles/76561198001148307 |  
   
 ## GBUR  
 owned by STEAM_0:0:715232469 | [male_09.mdl](https://steamcommunity.com/profiles/76561199390730666)  
 color: r: 0 g: 195 b: 255   
-2 members.  
+3 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:0:715232469 | 76561199390730666 | male_09.mdl | https://steamcommunity.com/profiles/76561199390730666 |  
 | STEAM_0:0:357166713 | 76561198674599154 | Binx | https://steamcommunity.com/profiles/76561198674599154 |  
+| STEAM_0:1:868000721 | 76561199696267171 | blyat master skins.army CS2.ME | https://steamcommunity.com/profiles/76561199696267171 |  
   
 ## GCCI  
 owned by STEAM_0:1:81817441 | [PedroUrdemalesCL](https://steamcommunity.com/profiles/76561198123900611)  
@@ -682,12 +687,12 @@ color: r: 255 g: 0 b: 135
 | STEAM_0:0:551109629 | 76561199062484986 | HλLF-LIFE Deathmatch: Source | https://steamcommunity.com/profiles/76561199062484986 |  
   
 ## HLF  
-owned by STEAM_0:0:17732430 | [Faster](https://steamcommunity.com/profiles/76561197995730588)  
+owned by STEAM_0:0:17732430 | [Dev-Des89_Official](https://steamcommunity.com/profiles/76561197995730588)  
 color: r: 66 g: 30 b: 30   
 4 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:17732430 | 76561197995730588 | Faster | https://steamcommunity.com/profiles/76561197995730588 |  
+| STEAM_0:0:17732430 | 76561197995730588 | Dev-Des89_Official | https://steamcommunity.com/profiles/76561197995730588 |  
 | STEAM_0:0:389933545 | 76561198740132818 | FeddyGaming64 | https://steamcommunity.com/profiles/76561198740132818 |  
 | STEAM_0:1:351600815 | 76561198663467359 | rachelclark | https://steamcommunity.com/profiles/76561198663467359 |  
 | STEAM_0:1:883660412 | 76561199727586553 | aydenphillips0911 | https://steamcommunity.com/profiles/76561199727586553 |  
@@ -744,12 +749,12 @@ color: r: 155 g: 155 b: 155
 | STEAM_0:1:564024470 | 76561199088314669 | Spawn | https://steamcommunity.com/profiles/76561199088314669 |  
   
 ## KANG  
-owned by STEAM_0:0:574847458 | [Kay Kay Kay Ray Pissed Pea Dough](https://steamcommunity.com/profiles/76561199109960644)  
+owned by STEAM_0:0:574847458 | [gape and kill trotskyists](https://steamcommunity.com/profiles/76561199109960644)  
 color: r: 0 g: 195 b: 255   
 1 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:574847458 | 76561199109960644 | Kay Kay Kay Ray Pissed Pea Dough | https://steamcommunity.com/profiles/76561199109960644 |  
+| STEAM_0:0:574847458 | 76561199109960644 | gape and kill trotskyists | https://steamcommunity.com/profiles/76561199109960644 |  
   
 ## KILL  
 owned by STEAM_0:1:922222781 | [Little furr](https://steamcommunity.com/profiles/76561199804711291)  
@@ -783,6 +788,20 @@ color: r: 135 g: 0 b: 255
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:766028639 | 76561199492323007 | ChrisDaily2 | https://steamcommunity.com/profiles/76561199492323007 |  
   
+## LAP  
+owned by STEAM_0:1:1727945 | [fooltime](https://steamcommunity.com/profiles/76561197963721619)  
+color: r: 255 g: 0 b: 249   
+7 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:1:1727945 | 76561197963721619 | fooltime | https://steamcommunity.com/profiles/76561197963721619 |  
+| STEAM_0:0:341167720 | 76561198642601168 | Cheshirekat_20 | https://steamcommunity.com/profiles/76561198642601168 |  
+| STEAM_0:0:56003497 | 76561198072272722 | roosteredrandy | https://steamcommunity.com/profiles/76561198072272722 |  
+| STEAM_0:1:532019791 | 76561199024305311 | Wood Mané | https://steamcommunity.com/profiles/76561199024305311 |  
+| STEAM_0:1:793287924 | 76561199546841577 | MohamedJambonDZ | https://steamcommunity.com/profiles/76561199546841577 |  
+| STEAM_0:1:963756726 | 76561199887779181 | keithrowprof | https://steamcommunity.com/profiles/76561199887779181 |  
+| STEAM_0:1:925890048 | 76561199812045825 | rainingcatsinthedark | https://steamcommunity.com/profiles/76561199812045825 |  
+  
 ## LD64  
 owned by STEAM_0:1:709964810 | [luckyduck64](https://steamcommunity.com/profiles/76561199380195349)  
 color: r: 255 g: 204 b: 0   
@@ -802,7 +821,7 @@ color: r: 58 g: 195 b: 0
 ## LOVE  
 owned by STEAM_0:1:650928249 | [Engineer™](https://steamcommunity.com/profiles/76561199262122227)  
 color: r: 255 g: 0 b: 0   
-263 members.  
+262 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:53997861 | 76561198068261451 | Dawn | https://steamcommunity.com/profiles/76561198068261451 |  
@@ -1047,7 +1066,6 @@ color: r: 255 g: 0 b: 0
 | STEAM_0:1:340259787 | 76561198640785303 | Skullguy1225 | https://steamcommunity.com/profiles/76561198640785303 |  
 | STEAM_0:1:414080483 | 76561198788426695 | Mr.Ralsei1225 | https://steamcommunity.com/profiles/76561198788426695 |  
 | STEAM_0:0:764691490 | 76561199489648708 | mendezluisprny | https://steamcommunity.com/profiles/76561199489648708 |  
-| STEAM_0:0:740936784 | 76561199442139296 | toprakgokturkyanik | https://steamcommunity.com/profiles/76561199442139296 |  
 | STEAM_0:1:381538809 | 76561198723343347 | gordon freeman | https://steamcommunity.com/profiles/76561198723343347 |  
 | STEAM_0:0:389841254 | 76561198739948236 | ['_'] | https://steamcommunity.com/profiles/76561198739948236 |  
 | STEAM_0:1:650928249 | 76561199262122227 | Engineer™ | https://steamcommunity.com/profiles/76561199262122227 |  
@@ -1061,13 +1079,21 @@ color: r: 255 g: 0 b: 0
 | STEAM_0:1:159326283 | 76561198278918295 | thatsouris | https://steamcommunity.com/profiles/76561198278918295 |  
 | STEAM_0:0:46973873 | 76561198054213474 | Peepeehole | https://steamcommunity.com/profiles/76561198054213474 |  
 | STEAM_0:1:928109470 | 76561199816484669 | GUILLIESUIT | https://steamcommunity.com/profiles/76561199816484669 |  
-| STEAM_0:1:651361484 | 76561199262988697 | Galixar | https://steamcommunity.com/profiles/76561199262988697 |  
 | STEAM_0:1:77482581 | 76561198115230891 | cheatham1969 | https://steamcommunity.com/profiles/76561198115230891 |  
 | STEAM_0:0:378485910 | 76561198717237548 | mr folk | https://steamcommunity.com/profiles/76561198717237548 |  
 | STEAM_0:0:68715352 | 76561198097696432 | M​​a​​​tt​​​​c​​h​​​u | https://steamcommunity.com/profiles/76561198097696432 |  
 | STEAM_0:1:75221138 | 76561198110708005 | Spike | https://steamcommunity.com/profiles/76561198110708005 |  
 | STEAM_0:0:367312459 | 76561198694890646 | azeandre0521 | https://steamcommunity.com/profiles/76561198694890646 |  
 | STEAM_0:0:935480761 | 76561199831227250 | daslinki | https://steamcommunity.com/profiles/76561199831227250 |  
+| STEAM_0:0:794669608 | 76561199549604944 | kriviro | https://steamcommunity.com/profiles/76561199549604944 |  
+  
+## M72  
+owned by STEAM_0:0:740936784 | [toprakgokturkyanik](https://steamcommunity.com/profiles/76561199442139296)  
+color: r: 250 g: 255 b: 0   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:0:740936784 | 76561199442139296 | toprakgokturkyanik | https://steamcommunity.com/profiles/76561199442139296 |  
   
 ## MAS  
 owned by STEAM_0:1:832285267 | [RandomestGamer201](https://steamcommunity.com/profiles/76561199624836263)  
@@ -1156,7 +1182,7 @@ color: r: 0 g: 0 b: 0
   
 ## ORB  
 owned by STEAM_0:1:411193741 | [Cosmic Orb](https://steamcommunity.com/profiles/76561198782653211)  
-color: r: 0 g: 195 b: 255   
+color: r: 3 g: 3 b: 3   
 1 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
@@ -1211,7 +1237,7 @@ color: r: 9 g: 28 b: 82
 | STEAM_0:0:950596169 | 76561199861458066 | Mushyfafa | https://steamcommunity.com/profiles/76561199861458066 |  
 | STEAM_0:1:922999743 | 76561199806265215 | lupetona | https://steamcommunity.com/profiles/76561199806265215 |  
 | STEAM_0:1:225111303 | 76561198410488335 | Ayuwokeez | https://steamcommunity.com/profiles/76561198410488335 |  
-| STEAM_0:1:600147788 | 76561199160561305 | Dark Kaneツ | https://steamcommunity.com/profiles/76561199160561305 |  
+| STEAM_0:1:600147788 | 76561199160561305 | Terror Kaneツ | https://steamcommunity.com/profiles/76561199160561305 |  
 | STEAM_0:0:120781820 | 76561198201829368 | evyled | https://steamcommunity.com/profiles/76561198201829368 |  
 | STEAM_0:0:433242888 | 76561198826751504 | ChickenSwimmer2020 | https://steamcommunity.com/profiles/76561198826751504 |  
 | STEAM_0:0:379295916 | 76561198718857560 | BIONIC | https://steamcommunity.com/profiles/76561198718857560 |  
@@ -1267,13 +1293,13 @@ color: r: 9 g: 28 b: 82
 | STEAM_0:1:49554290 | 76561198059374309 | Internet Box | https://steamcommunity.com/profiles/76561198059374309 |  
 | STEAM_0:0:408560202 | 76561198777386132 | The Qu | https://steamcommunity.com/profiles/76561198777386132 |  
 | STEAM_0:0:400625275 | 76561198761516278 | overdriver | https://steamcommunity.com/profiles/76561198761516278 |  
-| STEAM_0:1:579457026 | 76561199119179781 | Nemesis | https://steamcommunity.com/profiles/76561199119179781 |  
+| STEAM_0:1:579457026 | 76561199119179781 | Jake Muller | https://steamcommunity.com/profiles/76561199119179781 |  
 | STEAM_0:1:532572376 | 76561199025410481 | TraditionalScene759 | https://steamcommunity.com/profiles/76561199025410481 |  
 | STEAM_0:0:767173471 | 76561199494612670 | peter griffin | https://steamcommunity.com/profiles/76561199494612670 |  
 | STEAM_0:0:349952884 | 76561198660171496 | LeoOnRedbull | https://steamcommunity.com/profiles/76561198660171496 |  
 | STEAM_0:1:388522211 | 76561198737310151 | KingGanon6810 | https://steamcommunity.com/profiles/76561198737310151 |  
 | STEAM_0:0:406558693 | 76561198773383114 | LagMagnet | https://steamcommunity.com/profiles/76561198773383114 |  
-| STEAM_0:1:883822168 | 76561199727910065 | Me ne frego | https://steamcommunity.com/profiles/76561199727910065 |  
+| STEAM_0:1:883822168 | 76561199727910065 | ᚪᛚᛖᚳᛋᚪᚾᛞᛖᚱ | https://steamcommunity.com/profiles/76561199727910065 |  
 | STEAM_0:1:642438873 | 76561199245143475 | Civil Protection | https://steamcommunity.com/profiles/76561199245143475 |  
 | STEAM_0:0:923160587 | 76561199806586902 | El Chavo del 8 | https://steamcommunity.com/profiles/76561199806586902 |  
 | STEAM_0:0:138023627 | 76561198236312982 | burning atom | https://steamcommunity.com/profiles/76561198236312982 |  
@@ -1282,6 +1308,14 @@ color: r: 9 g: 28 b: 82
 | STEAM_0:0:360306930 | 76561198680879588 | Frank'D'Tank | https://steamcommunity.com/profiles/76561198680879588 |  
 | STEAM_0:1:945500704 | 76561199851267137 | Mr smile. | https://steamcommunity.com/profiles/76561199851267137 |  
 | STEAM_0:1:920369074 | 76561199801003877 | Jorenlievens | https://steamcommunity.com/profiles/76561199801003877 |  
+  
+## PKU  
+owned by STEAM_0:0:780846224 | [Christus Vincit](https://steamcommunity.com/profiles/76561199521958176)  
+color: r: 0 g: 255 b: 181   
+1 members.  
+| steamid | steamid64 | name | profile link |  
+| ------- | --------- | ---- | ------------ |  
+| STEAM_0:0:780846224 | 76561199521958176 | Christus Vincit | https://steamcommunity.com/profiles/76561199521958176 |  
   
 ## PNGL  
 owned by STEAM_0:0:915816630 | [Holy.Canolli21](https://steamcommunity.com/profiles/76561199791898988)  
@@ -1378,7 +1412,7 @@ color: r: 255 g: 0 b: 152
 | STEAM_0:1:932981781 | 76561199826229291 | redditguy570 | https://steamcommunity.com/profiles/76561199826229291 |  
 | STEAM_0:1:393426938 | 76561198747119605 | TommyRH2015 | https://steamcommunity.com/profiles/76561198747119605 |  
 | STEAM_0:1:412296559 | 76561198784858847 | X | https://steamcommunity.com/profiles/76561198784858847 |  
-| STEAM_0:1:922239077 | 76561199804743883 | coolgamer69 | https://steamcommunity.com/profiles/76561199804743883 |  
+| STEAM_0:1:922239077 | 76561199804743883 | BoingBoing | https://steamcommunity.com/profiles/76561199804743883 |  
 | STEAM_0:0:733355143 | 76561199426976014 | Aviao Ak47 | https://steamcommunity.com/profiles/76561199426976014 |  
 | STEAM_0:1:166986152 | 76561198294238033 | DAD? | https://steamcommunity.com/profiles/76561198294238033 |  
 | STEAM_0:1:903376489 | 76561199767018707 | olivia.heney | https://steamcommunity.com/profiles/76561199767018707 |  
@@ -1535,12 +1569,12 @@ color: r: 255 g: 206 b: 63
 | STEAM_0:1:372330059 | 76561198704925847 | YourRongAgain | https://steamcommunity.com/profiles/76561198704925847 |  
   
 ## TTT  
-owned by STEAM_0:0:946705264 | [dooby](https://steamcommunity.com/profiles/76561199853676256)  
+owned by STEAM_0:0:946705264 | [king von's cousin](https://steamcommunity.com/profiles/76561199853676256)  
 color: r: 62 g: 42 b: 20   
 8 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:946705264 | 76561199853676256 | dooby | https://steamcommunity.com/profiles/76561199853676256 |  
+| STEAM_0:0:946705264 | 76561199853676256 | king von's cousin | https://steamcommunity.com/profiles/76561199853676256 |  
 | STEAM_0:1:920425521 | 76561199801116771 | resterivev2 | https://steamcommunity.com/profiles/76561199801116771 |  
 | STEAM_0:1:555135384 | 76561199070536497 | Chia | https://steamcommunity.com/profiles/76561199070536497 |  
 | STEAM_0:0:222106524 | 76561198404478776 | Daemon Stalker | https://steamcommunity.com/profiles/76561198404478776 |  
@@ -1594,12 +1628,12 @@ color: r: 97 g: 5 b: 20
 | STEAM_0:0:864411951 | 76561199689089630 | masi. | https://steamcommunity.com/profiles/76561199689089630 |  
   
 ## UTDR  
-owned by STEAM_0:0:561231113 | [Jesse Pinkman (Giygas)](https://steamcommunity.com/profiles/76561199082727954)  
+owned by STEAM_0:0:561231113 | [Literally Giygas From Earthbound](https://steamcommunity.com/profiles/76561199082727954)  
 color: r: 0 g: 255 b: 208   
 4 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
-| STEAM_0:0:561231113 | 76561199082727954 | Jesse Pinkman (Giygas) | https://steamcommunity.com/profiles/76561199082727954 |  
+| STEAM_0:0:561231113 | 76561199082727954 | Literally Giygas From Earthbound | https://steamcommunity.com/profiles/76561199082727954 |  
 | STEAM_0:1:925080469 | 76561199810426667 | mapowell88 | https://steamcommunity.com/profiles/76561199810426667 |  
 | STEAM_0:1:637608047 | 76561199235481823 | MrBones1004 | https://steamcommunity.com/profiles/76561199235481823 |  
 | STEAM_0:1:563269579 | 76561199086804887 | bear5 | https://steamcommunity.com/profiles/76561199086804887 |  
@@ -1626,7 +1660,7 @@ color: r: 255 g: 0 b: 0
 ## VEX  
 owned by STEAM_0:1:921144655 | [Benjamin Netanyahu](https://steamcommunity.com/profiles/76561199802555039)  
 color: r: 156 g: 0 b: 255   
-50 members.  
+54 members.  
 | steamid | steamid64 | name | profile link |  
 | ------- | --------- | ---- | ------------ |  
 | STEAM_0:1:921144655 | 76561199802555039 | Benjamin Netanyahu | https://steamcommunity.com/profiles/76561199802555039 |  
@@ -1679,6 +1713,10 @@ color: r: 156 g: 0 b: 255
 | STEAM_0:0:587377629 | 76561199135020986 | amp.khem | https://steamcommunity.com/profiles/76561199135020986 |  
 | STEAM_0:0:927188166 | 76561199814642060 | bob | https://steamcommunity.com/profiles/76561199814642060 |  
 | STEAM_0:1:380593700 | 76561198721453129 | goji22878 | https://steamcommunity.com/profiles/76561198721453129 |  
+| STEAM_0:1:613926838 | 76561199188119405 | mok3b | https://steamcommunity.com/profiles/76561199188119405 |  
+| STEAM_0:1:399154867 | 76561198758575463 | BERSERKER | https://steamcommunity.com/profiles/76561198758575463 |  
+| STEAM_0:0:624218939 | 76561199208703606 | jace | https://steamcommunity.com/profiles/76561199208703606 |  
+| STEAM_0:1:809843892 | 76561199579953513 | Chronicx07 | https://steamcommunity.com/profiles/76561199579953513 |  
   
 ## WEEB  
 owned by STEAM_0:1:158052935 | [Celticwarrior64](https://steamcommunity.com/profiles/76561198276371599)  
@@ -1708,13 +1746,13 @@ color: r: 53 g: 255 b: 0
 | STEAM_0:1:619181626 | 76561199198628981 | Happyowlplayz | https://steamcommunity.com/profiles/76561199198628981 |  
   
 ## MISC INFO  
-TOP 1: LOVE, 263 MEMBERS.  
+TOP 1: LOVE, 262 MEMBERS.  
 TOP 2: PHAC, 98 MEMBERS.  
 TOP 3: HALF, 69 MEMBERS.  
 TOP 4: DCP, 57 MEMBERS.  
-TOP 5: VEX, 50 MEMBERS.  
+TOP 5: VEX, 54 MEMBERS.  
 TOP 6: SHIT, 29 MEMBERS.  
 TOP 7: TOT, 29 MEMBERS.  
-TOP 8: 1111, 22 MEMBERS.  
+TOP 8: 1111, 26 MEMBERS.  
 TOP 9: DOMN, 20 MEMBERS.  
 TOP 10: HERB, 16 MEMBERS.  
